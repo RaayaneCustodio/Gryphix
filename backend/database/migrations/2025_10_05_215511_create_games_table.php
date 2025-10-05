@@ -11,7 +11,7 @@ return new class extends Migration
     {
         Schema::create('games', function (Blueprint $table) {
             $table->id();
-            $table->tipoDeDado('nome_da_coluna');
+            $table->string('title');
             $table->timestamps();
         });
     }
