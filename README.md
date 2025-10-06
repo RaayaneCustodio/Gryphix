@@ -1,6 +1,6 @@
 # Gryphix - E-commerce de Jogos Digitais
 
-Bem-vindo ao Gryphix! Este é o repositório do nosso projeto de e-commerce para venda de chaves digitais de jogos, desenvolvido com uma API em Laravel e um frontend em React.
+Bem-vindo ao Gryphix! Este é o repositório do nosso projeto de e-commerce para venda de chaves digitais de jogos, desenvolvido com uma API em Laravel e um frontend em React. Este projeto e totalmente para fins de aprendizado.
 
 ## Tecnologias Utilizadas
 
